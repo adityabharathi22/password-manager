@@ -19,5 +19,4 @@ Future update yet to commence:
 3. create a secure application safe from sql-injections
 4. Enhance user experience
 
-Latest version to be used: password_db_user_ad_2.py 
 Thank you
