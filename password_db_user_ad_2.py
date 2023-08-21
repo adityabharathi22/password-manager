@@ -1,7 +1,7 @@
 import mysql.connector as mc
 import random
 
-mycon = mc.connect(host="localhost", user="root", passwd="Adu@5146", database="password_manager")
+mycon = mc.connect(host="localhost", user="root", passwd="****", database="password_manager")
 mycursor = mycon.cursor()
 
 
